@@ -1,3 +1,3 @@
-word=int(input())
-for i in range(word):
+time=int(input())
+for i in range(time):
   print("Hello")
