@@ -1,6 +1,6 @@
-val=int(input())
+valu=int(input())
 count=0
-while(val>0):
+while(valu>0):
   count=count+1
-  val=val//10
+  valu=valu//10
 print(count)
