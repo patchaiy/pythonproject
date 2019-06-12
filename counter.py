@@ -1,6 +1,6 @@
 a=int(input())
-count=0
+counter=0
 while(a>0):
-  count=count+1
+  counter=counter+1
   a=a//10
 print(count)
