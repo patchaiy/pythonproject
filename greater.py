@@ -1,10 +1,10 @@
 print("enter the number:")
 a=int(input())
 b=int(input())
-c=int(input())
-if a>b and a>c:
+d=int(input())
+if a>b and a>d:
   print(a)
-elif b>a and b>c:
+elif b>a and b>d:
   print(b)
 else:
-  print(c)
+  print(d)
