@@ -1,6 +1,6 @@
-rekha=int(input())
-counter=0
-while(rekha>0):
-  counter=counter+1
-  rekha=rekha//10
+n=int(input())
+count=0
+while(n>0):
+  count=count+1
+  n=n//10
 print(count)
